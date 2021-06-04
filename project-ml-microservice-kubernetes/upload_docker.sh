@@ -2,6 +2,7 @@
 # This file tags and uploads an image to Docker Hub
 
 # Assumes that an image is built via `run_docker.sh`
+# Assumes that environment variable DOCKER_PASS is in place
 
 # Step 0: Prepare variables
 DOCKER_USER="meluzovm"
