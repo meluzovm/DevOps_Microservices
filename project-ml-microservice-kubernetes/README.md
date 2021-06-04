@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/meluzovm/DevOps_Microservices/tree/master.svg?style=svg))](https://circleci.com/gh/meluzovm/DevOps_Microservices/tree/master)
 
 ## Project Overview
 
@@ -19,9 +19,9 @@ Your project goal is to operationalize this working, machine learning microservi
 
 You can find a detailed [project rubric, here](https://review.udacity.com/#!/rubrics/2576/view).
 
-**The final implementation of the project will showcase your abilities to operationalize production microservices.**
 
----
+# Docker Image
+Dcoker image is already created and uploaded to [Docker Hub](https://hub.docker.com/repository/docker/meluzovm/udacity-project04)
 
 ## Setup the Environment
 
