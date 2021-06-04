@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/meluzovm/DevOps_Microservices/tree/master.svg?style=svg))](https://circleci.com/gh/meluzovm/DevOps_Microservices/tree/master)
+[![CircleCI](https://circleci.com/gh/meluzovm/DevOps_Microservices/tree/master.svg?style=svg)](https://circleci.com/gh/meluzovm/DevOps_Microservices/tree/master)
 
 ## Project Overview
 
