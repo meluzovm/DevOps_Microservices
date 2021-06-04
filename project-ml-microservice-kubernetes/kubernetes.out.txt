@@ -1,0 +1,10 @@
+└─(20:19:01 on circleci-project-setup ✹ ✭)──> ./run_kubernetes.sh                                                                                                                                                  ──(Fri,Jun04)─┘
+pod/udacity-project04 created
+Waiting start of Pod udacity-project04 
+Pod is not running yet. Status: Pending
+Pod is not running yet. Status: Pending
+Pod is running now
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
